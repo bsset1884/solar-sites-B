@@ -261,5 +261,6 @@ solar-sites-B/
 ## Bronnen
 
 Zonnegegevens: [PVGIS](https://joint-research-centre.ec.europa.eu/photovoltaic-geographical-information-system-pvgis_en)
-© Europese Unie. Lettertypes: Archivo en Hanken Grotesk (SIL Open Font License),
-meegeleverd via Fontsource.
+© Europese Unie.
+
+Webdesign en thema geïnspireerd door Sellavi.com
